@@ -1,5 +1,3 @@
-// src/Students.js
-
 import React from "react";
 import { studentLife } from "../data";
 

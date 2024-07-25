@@ -1,5 +1,3 @@
-// src/ContactUs.js
-
 import React from "react";
 
 const ContactUs = () => {

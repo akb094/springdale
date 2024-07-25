@@ -1,5 +1,3 @@
-// src/data.js
-
 export const facultyProfiles = [
   {
     name: "John Doe",

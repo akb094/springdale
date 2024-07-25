@@ -1,5 +1,3 @@
-// src/Faculty.js
-
 import React from "react";
 import { facultyProfiles } from "../data";
 

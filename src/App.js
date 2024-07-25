@@ -9,7 +9,7 @@ import Faculty from "./components/Faculty";
 import Students from "./components/Students";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
-import "./App.css"; // Include your global CSS here
+import "./App.css";
 
 const App = () => {
   const [theme, setTheme] = useState("light");
